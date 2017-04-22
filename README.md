@@ -1,4 +1,7 @@
-# test coverage for  [gulp-concat-util (v0.5.5)](https://github.com/mgcrea/gulp-concat-util)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-concat-util.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-concat-util) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-concat-util.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-concat-util)
+# npmtest-gulp-concat-util
+
+#### basic test coverage for  [gulp-concat-util (v0.5.5)](https://github.com/mgcrea/gulp-concat-util)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-concat-util.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-concat-util) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-concat-util.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-concat-util)
+
 #### Gulp task to concat, prepend, append or transform files
 
 [![NPM](https://nodei.co/npm/gulp-concat-util.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-concat-util)
@@ -90,7 +93,8 @@
     "scripts": {
         "test": "mocha --reporter spec"
     },
-    "version": "0.5.5"
+    "version": "0.5.5",
+    "bin": {}
 }
 ```
 
